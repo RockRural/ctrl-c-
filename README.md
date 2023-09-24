@@ -1,46 +1,58 @@
-# ctrl-c-
-# ThothTech API 1º ADS
+# ThothTech 
 <span id="topo">
 <h1 align="center"> Thoth Tech - Scrum API  </h1>
 
 <p align="center">
-    <a href="O que é?"> O que é?</a> | 
-    <a href="Solução proposta">Solução proposta</a> | 
-    <a href="Planejamento das sprints">Planejamento das sprints</a> |
-    <a href="Relatório das sprints">Relatório das sprints</a> | 
+    <a href="Visão_geral"> Visão geral </a> | 
+    <a href="Solução_proposta">Solução proposta</a> | 
+    <a href="Planejamento_das_sprints">Planejamento das sprints</a> |
+    <a href="Relatório_das_sprints">Relatório das sprints</a> | 
     <a href="BACKLOGS">Relatório das sprints</a> | 
     <a href="Tecnologias utilizadas">Tecnologias utilizadas</a> | 
     <a href="Time">Time</a> | 
 
+    
+</p>
+<h2 aling="center"> Visão geral </h2>
+
+   
+ No mundo moderno em que vivemos é de suma importância que as empresas consigam ser dinamicas, eficientes e que seus funcionarios consigam acompanhar esse movimento. Por conta dessa realidade foi desenvolvido esse projeto junto a FATEC São José dos Campos - Prof. Jessen Vidal, onde a metodologia agil sera desenvolvida e aplicada. 
+
+ 
+
+<h2 aling="center"> Solução Proposta </h2>
+ Seguindo a solicitação do nosso cliente desenvolvemos uma aplicação web, onde o objetivo principal é que as pessoas que a usem consigam entender e aplicar a metodologia ágil, em mais especifico o Scrum, seja no meio acadêmico dentro da fatec ou profissional em qualquer empresa que tenha o objetivo de atualizar seu processo de produção. 
+
+
+    
 </p>
 <span id="backlogs">
 
-## :dart: Backlogs
 
 ### Backlog do Produto
 
-| Sprint | Tarefa |  US   | Item |  Estimativa de tempo   | Status   | Prioridade | 
+| Sprint | Tarefa |  US    | Item |  Estimativa de tempo   | Status   | Prioridade | 
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|    |  | EU, enquanto cliente,                                                                                                                   | Wireframe | 10h | :white_check_mark:  | 70 |
-| 1 | 1 | EU, enquanto cliente,                                                                                                                   | Wireframe | 6h | :white_check_mark:   | 40 |
-| 1 | 2 | EU, enquanto cliente,                                                                                                                   | Wireframe | 5h | :white_check_mark:   | 75 |
-| 1 | 3 | EU, enquanto cliente,                                                                                                                   | Wireframe | 4h | :white_check_mark:   | 65 |
-| 1 | 4 | EU, enquanto cliente,                                                                                                                   | Backlog   | 3h | :white_check_mark:   | 50 |
-| 1 | 5 | Eu, enquanto cliente,                                                                                                                   | Website   | 20h | :no_entry:          |100 |
-| 1 | 6 | Eu, enquanto cliente,                                                                                                                   | Website   | 3h | :no_entry:           | 85 |
-| 1 | 7 | Eu, enquanto cliente,                                                                                                                   | Website   | 2h | :no_entry:           | 90 |
-| 1 | 8 | Eu, enquanto cliente, q                                                                                                                 | Website   | 2h |:no_entry:            | 55 | 
-| 1 | 9 | Eu, enquanto cl                                                                                                                         | Website   | 2h |:no_entry:            | 60 |
-| 1 |10 | Eu, enquanto cliente ,                                                                                                                  | Website   | 1h |:no_entry:            | 95 |
-| 1 |11 | Eu, enquanto cliente ,                                                                                                                  | Website   | 5h |:no_entry:            | 80 |
-| 1 |12 | Eu, enquanto cliente,                                                                                                                   | Website   | 5h |:no_entry:            | 85 |
-| 1 |13 | Eu, enquanto cliente ,                                                                                  s                               | Website   | 5h |:no_entry:            | 40 |
-| 1 |14 | Eu, enquanto cliente,                                                                                                                   | Website   | 8h |:no_entry:            | 35 |
-| 1 |15 | Eu, enquanto cliente,                                                                                                                   | Website   | 8h |:no_entry:            | 30 |
+| 1 | 1 | EU, enquanto cliente,| Wireframe |10h | :white_check_mark:   | 70 |
+| 1 | 1 | EU, enquanto cliente | Wireframe | 6h | :white_check_mark:   | 40 |
+| 1 | 2 | EU, enquanto cliente,| Wireframe | 5h | :white_check_mark:   | 75 |
+| 1 | 3 | EU, enquanto cliente,| Wireframe | 4h | :white_check_mark:   | 65 |
+| 1 | 4 | EU, enquanto cliente,| Backlog   | 3h | :white_check_mark:   | 50 |
+| 1 | 5 | Eu, enquanto cliente,| Website   | 20h| :no_entry:           |100 |
+| 1 | 6 | Eu, enquanto cliente,| Website   | 3h | :no_entry:           | 85 |
+| 1 | 7 | Eu, enquanto cliente,| Website   | 2h | :no_entry:           | 90 |
+| 1 | 8 | Eu, enquanto cliente,| Website   | 2h |:no_entry:            | 55 | 
+| 1 | 9 | Eu, enquanto cl      | Website   | 2h |:no_entry:            | 60 |
+| 1 |10 | Eu, enquanto cliente | Website   | 1h |:no_entry:            | 95 |
+| 1 |11 | Eu, enquanto cliente | Website   | 5h |:no_entry:            | 80 |
+| 1 |12 | Eu, enquanto cliente,| Website   | 5h |:no_entry:            | 85 |
+| 1 |13 | Eu, enquanto cliente | Website   | 5h |:no_entry:            | 40 |
+| 1 |14 | Eu, enquanto cliente,| Website   | 8h |:no_entry:            | 35 |
+| 1 |15 | Eu, enquanto cliente,| Website   | 8h |:no_entry:            | 30 |
 
 
 
-Tcnologias usadas na construção do projeto:
+<h2 aling="center"> Tecnologias usadas na construção do projeto </h2>
 
 * <p>
       <img align="left" title="css3-logo" height="30px" src="https://user-images.githubusercontent.com/76211125/227503103-bb7005d7-5f2f-46e4-adb5-92ef19ce677d.png"/>
